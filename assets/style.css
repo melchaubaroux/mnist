@@ -4,6 +4,13 @@
   --post-blue: #003da5;
 }
 
+#drawing{
+
+  background-color : white ; 
+  
+}
+
+
 html {
   background-color: #fea;
   font-family: "Segoe UI", Tahoma, Geneva, Verdana, sans-serif;
@@ -23,6 +30,7 @@ html {
   width: 280px;
   height: 280px;
   border: 4px #333 solid;
+  color : white ;
 }
 
 #video-container, #video {
